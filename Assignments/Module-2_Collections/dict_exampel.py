@@ -30,5 +30,5 @@ else:
 """for i in stdata.items():
     print(i)"""
 
-stdata['id']=102
+stdata['id']=102 #value change
 print(stdata)
